@@ -1,5 +1,5 @@
 #pip install streamlit-folium
-pip install plotly
+#pip install plotly
 
 #Libraries
 import pandas as pd
