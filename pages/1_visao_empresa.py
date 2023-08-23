@@ -10,7 +10,7 @@ import numpy as np
 import streamlit as st
 from PIL import Image
 #from streamlit_folium import folium_static
-import folium
+#import folium
 
 st.set_page_config( page_title='Visão Empresa', layout='wide')
 
